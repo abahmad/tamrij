@@ -3,8 +3,7 @@
  Plugin Name: tamarji
  Plugin URI:
  Description: WP blugin fom tamarji  .
- Author: mnbaa
- Author URI: http://www.mnbaa.com
+ Author: abu abakr
  Version: 1.0
  Text Domian: tamarji
  Domain Path: /languages/
