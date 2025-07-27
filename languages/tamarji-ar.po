@@ -1,0 +1,627 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: tamarji\n"
+"POT-Creation-Date: 2014-09-28 11:41+0200\n"
+"PO-Revision-Date: 2014-09-28 14:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: F:\\xampp\\htdocs\\wpnetwork\\wp-content\\plugins\n"
+"X-Poedit-SearchPath-0: F:\\xampp\\htdocs\\wpnetwork\\wp-content\\plugins"
+"\\tamarji\n"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:173
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/arrays.php:33
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:20
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:88
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:49
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/reservation.php:81
+msgid "Doctor"
+msgstr "الطبيب"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:174
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:211
+msgid "Assistant"
+msgstr "مساعد الطبيب"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:175
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/arrays.php:11
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:21
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:89
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:5
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/reservation.php:17
+msgid "Patient"
+msgstr "المريض"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:221
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/arrays.php:22
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:19
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:87
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:265
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:32
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:176
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:41
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:185
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:48
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/reservation.php:58
+msgid "Department"
+msgstr "القسم"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:222
+msgid "All department"
+msgstr "كل الاقسام"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:223
+msgid "Parent department:"
+msgstr "القسم الرئيسى"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:224
+msgid "New department Name"
+msgstr "اسم القسم الجديد"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:225
+msgid "Add New department"
+msgstr "اضف قسم جديد"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:226
+msgid "Edit department"
+msgstr "عدل بيانات القسم"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:227
+msgid "Update department"
+msgstr "عدل بيانات القسم"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:228
+msgid "Separate departments with commas"
+msgstr "افصل بين الاقسام بفاصلة "
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:229
+msgid "Search departments"
+msgstr "ابحث فى الاقسام"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:230
+msgid "Add or remove departments"
+msgstr "اضف او احذف قسم"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:231
+msgid "Choose from the most used departments"
+msgstr "اختر من  الاقسام"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:232
+msgid "Not Found"
+msgstr "غير موجودة"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:267
+msgid "Reservation"
+msgstr "الحجز"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:286
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:64
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:104
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:124
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:168
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:178
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:200
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:187
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:209
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:199
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:218
+msgid "Edit"
+msgstr "عدل"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:287
+msgid "New"
+msgstr " جديد  "
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:288
+msgid "All"
+msgstr "الكل"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:288
+msgid "s"
+msgstr "تمت الاضافة بنجاح"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:289
+msgid "View"
+msgstr "عرض"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:290
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/tamarji.php:291
+msgid "Add New"
+msgstr "اضف جديد   "
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/controllers/ajax_functions.php:27
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:197
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/reservation.php:85
+msgid "Doctors"
+msgstr "الاطباء"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/controllers/doctor.php:62
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/controllers/patient.php:62
+msgid "Successfully Added"
+msgstr ""
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/arrays.php:56
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:90
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/reservation.php:126
+msgid "Attend On"
+msgstr "موعد الحضور"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/arrays.php:89
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/arrays.php:172
+msgid "Complaints"
+msgstr "الشكوى"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/arrays.php:100
+msgid "Notes"
+msgstr "الملاحظات"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/arrays.php:183
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:106
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/visit.php:24
+msgid "Symptoms"
+msgstr "الاعراض"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/arrays.php:194
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:112
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/visit.php:57
+msgid "Diagnosis"
+msgstr "التشخيص"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/arrays.php:206
+msgid "Prescriptions"
+msgstr "الرشوته"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/arrays.php:218
+msgid "Hide Symptoms"
+msgstr "اخف العرض"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/arrays.php:229
+msgid "Hide Complaints"
+msgstr "اخف الشكوى"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/arrays.php:240
+msgid "Hide Diagnosis"
+msgstr "اخف التشخيص"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:22
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:45
+msgid "Attend Date"
+msgstr "تاريخ الحضور"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:23
+msgid "Reserved Date"
+msgstr "تاريخ الحجز"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:24
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:95
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:109
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/reservation.php:156
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/visit.php:13
+msgid "Complaint"
+msgstr "الشكوى"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:25
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:91
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:93
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:153
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:50
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:99
+msgid "Visit"
+msgstr "الزيارة"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:26
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:97
+msgid "Actions"
+msgstr "الاحداث"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:58
+msgid "None"
+msgstr "لايوجد"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:62
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:108
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:122
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:172
+msgid "Confirmed"
+msgstr "مؤكد"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:63
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:123
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant_dashboard.php:66
+msgid "Cancelled"
+msgstr "ملغى"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:65
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:104
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:125
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:168
+msgid "Delay"
+msgstr "تاخير"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:93
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:155
+msgid "New Visit"
+msgstr "زيارة جديدة"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:99
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:163
+msgid "cancelled"
+msgstr "ملغى"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:102
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:166
+msgid "Cancel"
+msgstr "الغى"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/mnbaa_wp_shortcuts.php:111
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:175
+msgid "Confirm"
+msgstr "تاكيد"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:72
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:75
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:78
+msgid "Tamarji"
+msgstr "تمرجى"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:225
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/reservation.php:21
+msgid "Patients"
+msgstr "المرضى"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:238
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:251
+msgid "Patient File"
+msgstr "ملف المريض"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:278
+msgid "Roles Name"
+msgstr "اسماء الادوار  التنفيذية"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:310
+msgid "Add"
+msgstr "اضف"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/helpers/wp_functions.php:310
+msgid " Info "
+msgstr "بيانات"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/libraries/form_validation.php:12
+msgid "The field is required"
+msgstr "الحقل مطلوب"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/libraries/form_validation.php:13
+msgid "Email is not in correct format"
+msgstr ""
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/libraries/form_validation.php:14
+msgid "must contain numbers with no zero in first digit"
+msgstr ""
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/libraries/form_validation.php:15
+msgid "must contain  14 digits"
+msgstr ""
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/libraries/form_validation.php:16
+msgid "Password and Password confirm not matced"
+msgstr ""
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/libraries/form_validation.php:17
+msgid "The field must be unique"
+msgstr ""
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:8
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:8
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:13
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:19
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:16
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:16
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:22
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:20
+msgid "Full Name"
+msgstr "الاسم بالكامل"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:24
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:24
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:50
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:29
+msgid "Email"
+msgstr "البريد الالكترونى"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:36
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:45
+msgid "Departments"
+msgstr "الاقسام"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:54
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:63
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:68
+msgid "Phones"
+msgstr "التليفونات"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:69
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:80
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:92
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:78
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:89
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:101
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:89
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:100
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:112
+msgid "line"
+msgstr "الخط"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:70
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:81
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:92
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:79
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:90
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:101
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:90
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:101
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:112
+msgid "mobile"
+msgstr "رقم الجوال"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:86
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:95
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:106
+msgid "add"
+msgstr "اضف"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:92
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:101
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:112
+msgid "Delete"
+msgstr "حذف"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:117
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:126
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/roles_names.php:19
+msgid "Save"
+msgstr "حفظ"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:175
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:184
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:196
+msgid "Name"
+msgstr "الاسم"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:177
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:186
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:198
+msgid "Phone"
+msgstr "الهاتف"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:226
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:235
+msgid "&laquo; Previous"
+msgstr "السابق"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant.php:227
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:236
+msgid "Next &raquo;"
+msgstr "التالى"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant_dashboard.php:1
+msgid "Assistant Dashboard"
+msgstr "مساعد الطبيب"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant_dashboard.php:8
+msgid "Confirmed Reservations"
+msgstr "الحجز"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/assistant_dashboard.php:45
+msgid "Not Confirmed"
+msgstr "مؤكد"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor.php:33
+msgid "URl"
+msgstr "الرابط"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor_dashboard.php:1
+msgid "Doctor Dashboard"
+msgstr "الاطباء"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor_dashboard.php:22
+msgid "My Reservations For Today"
+msgstr "الحجوزات الخاصة بى  اليوم"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor_dashboard.php:53
+msgid "Department Reservations"
+msgstr "الحجزوات لهذا القسم"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/doctor_dashboard.php:90
+msgid "Resent Visits"
+msgstr "حجزوات تمت زياراتها"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:31
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:22
+msgid "Gender"
+msgstr "النوع"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:34
+msgid "Male"
+msgstr "ذكر"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:35
+msgid "Female"
+msgstr "انثى"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:41
+msgid "National_id"
+msgstr "الرقم القومى"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:59
+msgid "birthDate"
+msgstr "تاريخ الميلاد"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:138
+msgid "save"
+msgstr "حفظ"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:197
+msgid "National ID"
+msgstr "الرقم القومى"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:227
+msgid "No authors found"
+msgstr "غير موجودة"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:244
+msgid "Previous"
+msgstr "السابق"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient.php:245
+msgid "Next"
+msgstr "التالى"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:8
+msgid "Reservastions"
+msgstr "الحجز"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:21
+msgid "Birth Date"
+msgstr "تاريخ الميلاد"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:28
+msgid "Natonal Id"
+msgstr "الرقم القومى"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:44
+msgid "Reserve Date"
+msgstr "تاريخ الحجز"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:46
+msgid "Confirmation Date"
+msgstr "تاريخ التاكيد"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:47
+msgid "Cancel Date"
+msgstr "تاريخ الالغاء"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:115
+msgid "Prescription"
+msgstr "التشخيص"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/patient_file.php:176
+msgid "No Visits"
+msgstr "لا يوجد زيارات"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/reservation.php:166
+msgid "Note"
+msgstr "الملاحظة"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/visit.php:51
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/visit.php:83
+msgid "Hide"
+msgstr "اخفى"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/visit.php:89
+msgid "Prescriptio"
+msgstr "الروشتة"
+
+#: F:\xampp\htdocs\wpnetwork\wp-content\plugins\tamarji/views/visit.php:119
+msgid "Print Prescription"
+msgstr "اطبع الروشتة"
+
+#~ msgid " Edit"
+#~ msgstr "عدل"
+
+#~ msgid "Patient file"
+#~ msgstr "ملف المريض"
+
+#~ msgid "visit"
+#~ msgstr "الزيارة"
+
+#~ msgid "Welcom to tamarji"
+#~ msgstr "اهلا بك فى تمرجى"
+
+#~ msgid "reservation"
+#~ msgstr "الحجز"
+
+#~ msgid "National ID or email"
+#~ msgstr "الرقم القومى او البريدالالكترونى"
+
+#~ msgid "Password"
+#~ msgstr "كلمة السر"
+
+#~ msgid "Please enter valid data"
+#~ msgstr "ادخل بيانات  صحيحة"
+
+#~ msgid "Phone number"
+#~ msgstr "رقم التليفون"
+
+#~ msgid "Please visit this link to reset your password"
+#~ msgstr "الاقسام"
+
+#~ msgid "reset password"
+#~ msgstr "اخفى"
+
+#~ msgid "Please check your mail to reset password"
+#~ msgstr "عدل"
+
+#~ msgid "Description"
+#~ msgstr "الوصف"
+
+#~ msgid "ID"
+#~ msgstr " الرقم"
+
+#~ msgid "send"
+#~ msgstr "ارسل"
+
+#~ msgid "Nation ID or Email"
+#~ msgstr "الرقم القومى  او البريد الالكترونى"
+
+#~ msgid "logout"
+#~ msgstr "خروج"
+
+#~ msgid "Visit Date"
+#~ msgstr "تاريخ الزيارة"
+
+#~ msgid "Patient Name"
+#~ msgstr "اسم المريض"
+
+#~ msgid "Sympton"
+#~ msgstr "الاعراض"
+
+#~ msgid "Value"
+#~ msgstr "القيمة"
+
+#~ msgid "Date"
+#~ msgstr "التاريخ"
+
+#~ msgid "Decription"
+#~ msgstr "الوصف"
+
+#~ msgid "name"
+#~ msgstr "الاسم"
+
+#~ msgid "gender"
+#~ msgstr "الجنس"
+
+#~ msgid "Confirm Password"
+#~ msgstr "اكد  كلمة السر"
+
+#~ msgid "you are register"
+#~ msgstr "انت مسجل معنا"
+
+#~ msgid "FullName"
+#~ msgstr "الاسم بالكامل"
+
+#~ msgid "image"
+#~ msgstr "الصورة"
+
+#~ msgid "Parent department"
+#~ msgstr "القسم الرئيسى"
+
+#~ msgid "Edit "
+#~ msgstr "تعديل"

@@ -1,0 +1,318 @@
+.confirmed{
+	background: #0F9;
+}
+.cancelled{
+	background: #F06;
+}
+#mytabs h2{
+	background: white;
+	margin: 4px;
+	padding: 5px;
+}
+.nav-tab-wrapper {
+
+	/*padding: 0px;*/
+	margin: 0px;
+	background: white;
+}
+.category-tabs {
+	padding: 0px;
+	margin: 0px;
+}
+.nav-tab {
+	background: #f1f1f1;
+}
+.visit_details{
+	background: white;
+	height: 500px;
+}
+/************************ tabel style *************/
+.ui-dialog{
+	width: 500px;
+	background: white;
+	height: 400px;
+	border: 1px solid gray;
+}
+table{
+	/*text-align: left;*/
+}
+
+h2{
+	/*background: none;*/
+}
+li{
+	/*background: none;*/
+}
+.patient_data tr {
+	/*border: 2px solid #AEAEAE;*/
+}
+
+.parent {
+	/*background-color: #B30202;
+	color: #FFF;*/
+}
+.parent_th{
+	/*background-color:#f1f1f1;
+	/*color: #FFF;*/
+	/*font-size: 14px;*/*/
+	
+	
+}
+.reservations_th th{
+	/*font-size: 14px;
+	text-align: left;
+	margin: 2px;*/
+}
+.reservation_child{
+	background-color: #0CF;
+	border: 1px solid red;
+}
+.parent_tr_in td, .parent_tr_out td {
+	border-top: 2px solid #000;
+}
+.report td {
+	width: 15%;
+
+}
+.child td{
+	width: 15%;
+	
+}
+.soon{
+	background-color:#F0F;
+}
+.done{
+	background-color:#090;
+}
+.anylsis td{
+	width: 20%;
+}
+/***********************************************visit  style******************************/
+#autoCompleteArea {
+		border: 1px solid #ddd;
+		width: 400px;
+	}
+	#custom_meta_box #autoCompleteArea input[type=text] {
+		border: none;
+		-webkit-box-shadow: none;
+		box-shadow: none;
+		width: 399px;
+	}
+	.token-input-token-hidden {
+		display: none;
+	}
+
+	ul.token-input-list {
+		overflow: hidden;
+		height: auto !important;
+		height: 1%;
+		width: 400px;
+		/*border: 1px solid #999;*/
+		cursor: text;
+		font-size: 12px;
+		font-family: Verdana;
+		z-index: 999;
+		margin: 0;
+		padding: 0;
+		background-color: #fff;
+		list-style-type: none;
+		clear: left;
+	}
+
+	ul.token-input-list li {
+		list-style-type: none;
+	}
+	li.token-input-token {
+		overflow: hidden;
+		height: auto !important;
+		height: 1%;
+		margin: 3px;
+		padding: 3px 5px;
+		background-color: #2ea2cc;
+		color: #fff;
+		font-weight: bold;
+		cursor: default;
+		display: block;
+	}
+	
+	ul.token-input-list.hidden-ul li {
+		background-color: #c2c2c2;
+		color: #FFFFFF;
+	}
+	li.token-input-token p {
+		float: left;
+		padding: 0;
+		margin: 0 20px;
+	}
+	li.token-input-token span {
+		float: right;
+		color: #fff;
+		cursor: pointer;
+	}
+	ul.token-input-list li input{
+		margin: 0 5px;
+		width: 150px!important;
+		float: right;
+		border: 1px solid #ddd;
+		-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+		box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+		background-color: #fff;
+		color: #333;
+		-webkit-transition: .05s border-color ease-in-out;
+		transition: .05s border-color ease-in-out;
+		font-weight: normal;
+	}
+/***********************************************************************/
+
+.visitTabs .ui-tabs .ui-tabs-nav li{
+	background: yellow;
+	font-size: 10px;
+}
+.visitTabs  h2 .ui-tabs .ui-tabs-nav li a{
+	padding:0px;
+	font-size:10px;
+}
+/**********************/
+#tabs-1{
+	padding:5px;
+}
+.patient{
+	/*background: white;*/
+	/*padding: 10px;*/
+}
+.patient tbody{
+	margin:5px;
+}
+.alignleft{
+	display: none;
+	
+}
+
+
+/* patient file visit tabs*/
+.popup-tabs li a{
+	padding: 2px 5px !important;
+	font-size: 14px;
+}
+
+.ui-dialog .ui-dialog-titlebar-close span{
+	margin: -9px !important;
+}
+
+#posts-filter .search-box{
+	display: none;
+}
+#posts-filter .tablenav{
+	display: none;
+}
+
+.ui-menu .ui-menu-item {
+	color: #2ea2cc;
+	font-size: 15px;
+}
+
+.autoCompleate-heighlited {
+	color:#ff0000;
+	display: inline;
+	/*background-color:#D5EDF5;*/
+}
+
+
+.ui-state-focus {
+	background-image: none !important;
+	background-color: #6CBFDE !important;
+	color: #FFF !important;
+}
+
+.ui-state-focus .autoCompleate-heighlited {
+	/*color:#FFF;*/
+	/*background-color:#2FA4CF;*/
+}
+
+
+/*================ Validation ===============*/
+.invalid {
+	background-color: #FF8282;
+}
+.required::after { 
+    content: "<span class='error'></span>";
+}
+
+
+
+
+/*================== AutoComplete =====================*/
+#autoCompleteArea {
+		border: 1px solid #ddd;
+		width: 400px;
+	}
+	#custom_meta_box #autoCompleteArea input[type=text] {
+		border: none;
+		-webkit-box-shadow: none;
+		box-shadow: none;
+		width: 399px;
+	}
+	.token-input-token-hidden {
+		display: none;
+	}
+
+	ul.token-input-list {
+		overflow: hidden;
+		height: auto !important;
+		height: 1%;
+		width: 400px;
+		/*border: 1px solid #999;*/
+		cursor: text;
+		font-size: 12px;
+		font-family: Verdana;
+		z-index: 999;
+		margin: 0;
+		padding: 0;
+		background-color: #fff;
+		list-style-type: none;
+		clear: left;
+	}
+
+	ul.token-input-list li {
+		list-style-type: none;
+	}
+	li.token-input-token {
+		overflow: hidden;
+		height: auto !important;
+		height: 1%;
+		margin: 3px;
+		padding: 3px 5px;
+		background-color: #2ea2cc;
+		color: #fff;
+		font-weight: bold;
+		cursor: default;
+		display: block;
+	}
+	
+	ul.token-input-list.hidden-ul li {
+		background-color: #c2c2c2;
+		color: #FFFFFF;
+	}
+	li.token-input-token p {
+		float: left;
+		padding: 0;
+		margin: 0 20px;
+	}
+	li.token-input-token span {
+		float: right;
+		color: #fff;
+		cursor: pointer;
+	}
+	ul.token-input-list li input{
+		margin: 0 5px;
+		width: 150px!important;
+		float: right;
+		border: 1px solid #ddd;
+		-webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+		box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+		background-color: #fff;
+		color: #333;
+		-webkit-transition: .05s border-color ease-in-out;
+		transition: .05s border-color ease-in-out;
+		font-weight: normal;
+	}
